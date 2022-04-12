@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTPExecutable", "ARTPExecutable\ARTPExecutable.csproj", "{AC60C6FD-BA6E-49CB-AE34-1C65CC847B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTPLibrary", "ARTPLibrary\ARTPLibrary.csproj", "{F4605F1F-66B5-414C-8DDB-A73BBF7CB75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC60C6FD-BA6E-49CB-AE34-1C65CC847B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC60C6FD-BA6E-49CB-AE34-1C65CC847B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC60C6FD-BA6E-49CB-AE34-1C65CC847B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC60C6FD-BA6E-49CB-AE34-1C65CC847B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4605F1F-66B5-414C-8DDB-A73BBF7CB75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4605F1F-66B5-414C-8DDB-A73BBF7CB75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4605F1F-66B5-414C-8DDB-A73BBF7CB75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4605F1F-66B5-414C-8DDB-A73BBF7CB75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265FD487-DA52-40E9-AE89-5E783D87162F}
+	EndGlobalSection
+EndGlobal
